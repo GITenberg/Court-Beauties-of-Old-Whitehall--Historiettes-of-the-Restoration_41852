@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41990'
     url: http://www.gutenberg.org/2009/agents/41990
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41852#Court-Beauties-of-Old-Whitehall--Historiettes-of-the-Restoration
 gutenberg_issued: '2013-01-16'
 gutenberg_type: Text
 identifiers:
