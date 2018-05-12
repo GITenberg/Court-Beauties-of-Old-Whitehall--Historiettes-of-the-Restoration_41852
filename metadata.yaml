@@ -1,0 +1,28 @@
+_repo: Court-Beauties-of-Old-Whitehall--Historiettes-of-the-Restoration_41852
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41852-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Trowbridge, W. R. H. (William Rutherford Hayes)
+    alias: Trowbridge, William Rutherford Hayes
+    birthdate: 1866
+    deathdate: 1938
+    gutenberg_agent_id: '41990'
+    url: http://www.gutenberg.org/2009/agents/41990
+description: ''
+gutenberg_issued: '2013-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 17th century'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Restoration, 1660-1688'
+title: 'Court Beauties of Old Whitehall: Historiettes of the Restoration'
+url: http://www.gutenberg.org/ebooks/41852
